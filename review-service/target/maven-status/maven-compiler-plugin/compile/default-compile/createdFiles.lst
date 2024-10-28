@@ -1,0 +1,6 @@
+com\maya\review_service\ReviewServiceApplication.class
+com\maya\review_service\model\Review.class
+com\maya\review_service\dao\ReviewRepository.class
+com\maya\review_service\client\BookClient.class
+com\maya\review_service\controller\ReviewController.class
+com\maya\review_service\service\ReviewService.class
